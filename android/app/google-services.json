@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "590795256507",
+    "project_id": "voltmaster-a03b2",
+    "storage_bucket": "voltmaster-a03b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590795256507:android:a2253c3a3fb60c7dc0af9e",
+        "android_client_info": {
+          "package_name": "com.example.voltmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0T8Bhb_OYrtTKty5wEiVeWesu9DLw4Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
