@@ -1,7 +1,3 @@
-# EV Vehicle Explosion Predictor(Checkout the IoT implementation repo too👇)
-
-> Link to the mobile app: https://github.com/Nithish-Sri-Ram/EV-Battery-Explosion-Predictor
-
 # voltmaster
 
 Your Life Saver.
